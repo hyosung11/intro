@@ -5,9 +5,34 @@
 - [x] 1. Intro
 - [x] 2. What Is Open Source?
 - [x] 3. Why Open Source?
-- [ ] 4. 
+- [ ] 4. Tools to be successful
+- [ ] 5. How to contribute to open source
+- [ ] 6. The Secret Sauce
+- [ ] 7. Conclusion
+- [ ] 8. Additional Resources
+- [ ] 9. Glossary
 
-### Additional Benefits
+## 1. Intro to Open Source with OpenSauced
+
+## 2. What Is Open Source?
+
+- The Open Source Initiative (OSI)
+  - <https://opensource.org/>
+
+[How I coined the term 'open source'](https://opensource.com/article/18/2/coining-term-open-source-software)
+
+### The Rise of Corporate Involvement
+
+- Google's TensorFlow
+- Facebook's React
+
+## 3. Why Open Source?
+
+1. Access to Knowledge
+2. Access to Community
+3. Access to Skills
+
+4. Additional Benefits
 
 In addition to the above-mentioned benefits, contributing to open source projects can also provide several other advantages, such as:
 
