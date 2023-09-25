@@ -42,6 +42,52 @@ In addition to the above-mentioned benefits, contributing to open source project
 
     3. **Opportunities for recognition:** Open source projects often attract the attention of industry leaders, influencers, and media outlets. By making significant contributions to high-profile projects, you can gain recognition and establish yourself as an expert in your field.
 
+## 4. Tools to be Successful
+
+Essential Tools for open source collaboration:
+
+- Git & GitHub
+- CodeSee
+- VS Code
+- Discord
+
+### Git & GitHub
+
+- Git
+  - branching
+  - staging area
+  - distributed version control
+
+- GitHub
+  - issue tracking
+  - pull requests
+  - forking
+  - GitHub Actions
+
+### CodeSee
+
+CodeSee is a powerful visualization tool that helps developers understand complex codebases and navigate large projects more efficiently. By providing a visual representation of your code, CodeSee enables you to:
+
+- Identify dependencies: CodeSee helps you understand how different parts of your codebase are connected and how changes in one area might impact other areas.
+- Analyze code structure: CodeSee allows you to visualize the structure of your code, making it easier to identify patterns, anti-patterns, and areas for improvement.
+- Navigate large codebases: With CodeSee, you can quickly navigate large codebases and find the parts of the code you need to work on.
+
+To get started with CodeSee, visit the official website (<https://www.codesee.io/>) and follow the instructions to install the browser extension and integrate it with your GitHub account.
+
+### VS Code
+
+- built-in Git support
+- extensibility
+- integrated terminal
+- customizable
+
+### Discord
+
+- connect with other developers
+- stay-up-to-date
+- participate in discussions
+- find collaboration opportunities
+
 ## Resources
 
 [Introduction to contributing](https://docs.opensauced.pizza/contributing/introduction-to-contributing/)
