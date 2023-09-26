@@ -5,7 +5,7 @@
 - [x] 1. Intro
 - [x] 2. What Is Open Source?
 - [x] 3. Why Open Source?
-- [ ] 4. Tools to be successful
+- [x] 4. Tools to be successful
 - [ ] 5. How to contribute to open source
 - [ ] 6. The Secret Sauce
 - [ ] 7. Conclusion
@@ -87,6 +87,27 @@ To get started with CodeSee, visit the official website (<https://www.codesee.io
 - stay-up-to-date
 - participate in discussions
 - find collaboration opportunities
+
+## 5. How to Contribute to Open Source
+
+### Finding projects
+
+1. Browse GitHub via keywords, programming languages, or topics
+2. Follow your interests: tools, frameworks, libraries that you use and/or interest you
+3. Join open source communities: e.g., OpenSauced Discord
+4. Leverage OpenSauced
+
+#### Discover Open Source with OpenSauced
+
+1. create account
+2. explore the dashboard
+3. search for projects
+4. save projects to your insights
+5. start contributing
+
+### Get Started with Contributing
+
+RTR 20230926 12:06
 
 ## Resources
 
