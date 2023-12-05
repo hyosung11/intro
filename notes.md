@@ -113,9 +113,15 @@ To get started with CodeSee, visit the official website (<https://www.codesee.io
    3. study the project's codebase, structure, and existing issues.
 
 2. Find an issue or create an issue
-   1. 
+   1. look for issues labeled "good first issue" or "beginner-friendly" that are suitable for your skill level
+   2. or identify a feature or improvement you'd like to work on and check if it aligns with the projet's roadmap
 
+3. Ask to be assigned the issue
+   1. ask the maintainers to assign the issue to you
+   2. if no directions in `CONTRIBUTING` file, comment in the issue: "Can I please be assigned this issue?"
+   3. When assigned, you'll notice that the issue is now labeled with your username.
 
+RTR
 
 ## Resources
 
