@@ -107,7 +107,19 @@ To get started with CodeSee, visit the official website (<https://www.codesee.io
 
 ### Get Started with Contributing
 
-RTR 20230926 12:06
+1. familiarize yourself with the project
+   1. `README` file
+   2. `CONTRIBUTING` file
+   3. codebase, structure and existing issues
+2. find an issue or create an issue
+   1. labels "good first issue" or "beginner-friendly"
+   2. identify a feature or improvement you want to work on and check if it aligns with the project's roadmap
+      1. documentation updates
+      2. bug fixes
+      3. content changes
+3. ask to be assigned the issue
+   1. check `CONTRIBIUTING` file or
+   2. ask "Can I please be assigned this issue?"
 
 ## Resources
 
