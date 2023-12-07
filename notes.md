@@ -121,6 +121,22 @@ To get started with CodeSee, visit the official website (<https://www.codesee.io
    2. if no directions in `CONTRIBUTING` file, comment in the issue: "Can I please be assigned this issue?"
    3. When assigned, you'll notice that the issue is now labeled with your username.
 
+### How to Submit a Contribution
+
+1. Fork the repository
+2. Clone your fork to your local machine
+3. Create a new branch
+    `git checkout -b your-branch-name`
+4. Make your changes
+5. Commit your changes
+
+    git add .
+    git commit -m "Your commit message"
+
+6. push your changes
+7. submit a pull request
+8. respond to feedback
+
 ## Resources
 
 [Introduction to contributing](https://docs.opensauced.pizza/contributing/introduction-to-contributing/)
