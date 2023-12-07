@@ -137,6 +137,14 @@ To get started with CodeSee, visit the official website (<https://www.codesee.io
 7. submit a pull request
 8. respond to feedback
 
+### Let's Get Practical
+
+1. Fork the repo
+2. Clone the repo
+3. Run `npm install`
+4. Create a new branch
+5. Run `npm run contributors:add` to add yourself to the contributors list and fill out the form based on your contributions.
+
 ## Resources
 
 [Introduction to contributing](https://docs.opensauced.pizza/contributing/introduction-to-contributing/)
