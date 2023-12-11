@@ -146,8 +146,31 @@ To get started with CodeSee, visit the official website (<https://www.codesee.io
 5. Run `npm run contributors:add` to add yourself to the contributors list and fill out the form based on your contributions.
 6. Run `npm run contributors: generate` to generate the new contributors list.
 7. Commit your changes and push them to your forked repository.
-8. RTR
-9. Respond to feedback
+8. Once pushed, navigate to the original project's repository on GitHub and click the "New pull request" button. In the "base repository" dropdown, select the original repository, and in the "head repository" dropdown, select your forked repository. Choose your branch from the "compare" dropdown, and click "Create pull request". Fill in the required information and submit your pull request.
+
+Congratulations! You just made an open source contribution! In the next chapter, we'll add this to an open source portfolio: a resume for open source contributions through which you can showcase your work and attract potential employers and friends using OpenSauced. For now, let's wrap up with some notes on onboarding.
+
+### Merge Conflicts
+
+Step-by-Step Guide
+
+1. Open VS Code: Launch Visual Studio Code and open the repository where the merge conflict exists.
+2. Check for Conflicts: If you've just performed a pull or merge operation and a conflict occurs, VS Code will automatically detect it. You will see a notification in the source control tab or sidebar.
+3. View Conflicted Files: Click on the conflicted file in the source control tab. VS Code will display a "Merge Conflict" section in the file.
+4. Resolve Conflicts: Inside the "Merge Conflict" section, you'll see the conflicting changes separated by the conflict markers (<<<<<<<, =======, >>>>>>). From there, decide which changes to keep or combine.
+5. Save the file: After resolving the conflicts, save the file.
+6. Stage the Resolved File: In the Source Control tab, you should see options to stage the resolved file. Click on the "Mark as Resolved" or similar button.
+7. Commit the Changes: Once all conflicts are resolved, commit your changes using VS Code's built-in source control features.
+8. Push Your Changes: After committing, push the changes to the remote repository to complete the merge process.
+9. Verify the Merge: Verify that the merge conflict has been successfully resolved by checking the remote repository or using Git tools.
+
+### Onboarding in a New Project
+
+1. Read the documentation
+2. Join the community
+3. Start small
+4. Ask for help
+5. Be patient and persistent
 
 ## Resources
 
