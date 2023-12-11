@@ -144,6 +144,10 @@ To get started with CodeSee, visit the official website (<https://www.codesee.io
 3. Run `npm install`
 4. Create a new branch
 5. Run `npm run contributors:add` to add yourself to the contributors list and fill out the form based on your contributions.
+6. Run `npm run contributors: generate` to generate the new contributors list.
+7. Commit your changes and push them to your forked repository.
+8. RTR
+9. Respond to feedback
 
 ## Resources
 
