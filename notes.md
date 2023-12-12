@@ -238,6 +238,22 @@ Important information to include when you're highlighting your contributions:
 - The details of your contribution including improvements and impacts made on the - project and on the community,
 - Collaboration and teamwork details.
 
+#### Formatting Your Highlight
+
+Recommended Format:
+
+- **Description**: When highlighting your contribution, we recommend mentioning the impact that it had on the overall project. This would be helpful in highlighting your qualifications for job positions, especially if you have employment gaps. Consider using the following model to help you craft this highlight into a story:
+  - Success verb + noun + metric + outcome.
+  - Example: While I was reviewing some pull requests for this year's GirlScript Summer of Code, I noticed that most of them would not merge in spite of me and the owner giving approvals. So, I created a GitHub Action where pull requests automatically merge once they have passed the deployment steps(successive verb + noun), which increased productivity rates by 80%(metric + outcome).
+- Add a repo: Provide the complete name of the repository to which you are making contributions.
+- URL: Paste the URL to your pull request, issue or your blog post.
+
+Share it!: Once you've built up a portfolio of open source contributions, you can share your OpenSauced resume with others by clicking the share button in the header of your profile page. This can be especially helpful when applying for jobs, networking with other developers, or promoting your work in the open source community.
+
+By leveraging OpenSauced to track your open source contributions and develop your resume, you'll be better equipped to showcase your skills, experience, and impact in the open source community.
+
+In conclusion, getting started with open source contributions and making a lasting impact on the projects you work on requires a combination of technical skills, collaboration, and persistence. By focusing on open issues, gaining traction in your contributions, and leveraging tools like OpenSauced, you'll be well on your way to a successful and fulfilling open source journey.
+
 ## Resources
 
 [Introduction to contributing](https://docs.opensauced.pizza/contributing/introduction-to-contributing/)
