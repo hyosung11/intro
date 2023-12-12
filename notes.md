@@ -275,3 +275,15 @@ In conclusion, getting started with open source contributions and making a lasti
 ## 8. Additional Resources
 
 [Introduction to contributing](https://docs.opensauced.pizza/contributing/introduction-to-contributing/)
+
+## 9. Conclusion
+
+### What's Next
+
+1. Identify your interests and goals
+2. Find projects to contribute to
+3. Start contributing
+4. Connect with the open source community
+5. Attend events and conferences
+6. Share your experiences
+7. Continue learning
