@@ -204,11 +204,39 @@ Focus on open issues rather than just fixing typos, so you'll make a more signif
 2. Take on challenging tasks
 3. Collaborate with others
 4. Share your expertise
+   1. write blog posts
+   2. create tutorials
+   3. give presentations
 5. Mentor new contributors
-
 
 ### Build Your Open Source Resume
 
+Use OpenSauced to track your open source contributions and develope your open source resume
+
+1. Sign up for an OpenSauced account
+2. Visit your public profile page
+3. Build your open source resume
+   1. add highlights to Pull Requests and Issues that you've contributed to
+   2. also add description and links to your open source resume
+
+Showcase the guestbook contribution
+
+- locate "Highlights" section with a text input
+- click on this section
+  - add a title
+  - some thoughts
+  - a link to your PR
+- displayed on your public profile page
+
+#### Effectively Highlight Your Contribution
+
+Important information to include when you're highlighting your contributions:
+
+- New material you've created,
+- Project details (tools, libraries, size, and complexity),
+- The type of your contributions: bug fix, feature, performance, documentation, - etc.,
+- The details of your contribution including improvements and impacts made on the - project and on the community,
+- Collaboration and teamwork details.
 
 ## Resources
 
