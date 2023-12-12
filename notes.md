@@ -6,7 +6,7 @@
 - [x] 2. What Is Open Source?
 - [x] 3. Why Open Source?
 - [x] 4. Tools to be successful
-- [ ] 5. How to contribute to open source
+- [x] 5. How to contribute to open source
 - [ ] 6. The Secret Sauce
 - [ ] 7. Conclusion
 - [ ] 8. Additional Resources
@@ -171,6 +171,37 @@ Step-by-Step Guide
 3. Start small
 4. Ask for help
 5. Be patient and persistent
+
+### What Happens Next?
+
+1. Your contribution is accepted
+2. Your contribution requires changes
+3. Your contribution is rejected
+
+## 6. The Secret Sauce
+
+- how to focus on open issues
+- gain traction in contributions
+- develop your open source resume with OpenSauced
+
+### Open Issues - More than PRs that Fix Typos
+
+Tackle open issues to help the project move forward and give yourself a deeper understanding of the codebase and demonstrate your problem-solving abilities.
+
+Tips for finding and addressing open issues:
+
+1. Browse the issue tracker
+2. Look for beginner-friendly issues
+3. Understand the issue
+4. Communicate your intentions
+5. Test your changes
+
+Focus on open issues rather than just fixing typos, so you'll make a more significant impact on the projects you contribute to and demonstrate your commitment to the open source community.
+
+### Get Traction in Contributions
+
+### Build Your Open Source Resume
+
 
 ## Resources
 
