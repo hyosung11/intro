@@ -254,6 +254,25 @@ By leveraging OpenSauced to track your open source contributions and develop you
 
 In conclusion, getting started with open source contributions and making a lasting impact on the projects you work on requires a combination of technical skills, collaboration, and persistence. By focusing on open issues, gaining traction in your contributions, and leveraging tools like OpenSauced, you'll be well on your way to a successful and fulfilling open source journey.
 
+## 7. Types of Contributions
+
+### Non-Coding Types of Contributions
+
+- documentation
+- graphic design
+- blog writing
+
+### Coding Type of Contributions
+
+- write new code
+- bug fixes
+- code refactoring
+- API design and maintenance
+- feature development
+- performance optimization
+- testing and quality assurance
+
+
 ## Resources
 
 [Introduction to contributing](https://docs.opensauced.pizza/contributing/introduction-to-contributing/)
