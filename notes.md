@@ -287,3 +287,7 @@ In conclusion, getting started with open source contributions and making a lasti
 5. Attend events and conferences
 6. Share your experiences
 7. Continue learning
+
+## 10. Glossary
+
+End
