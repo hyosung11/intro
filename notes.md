@@ -200,6 +200,13 @@ Focus on open issues rather than just fixing typos, so you'll make a more signif
 
 ### Get Traction in Contributions
 
+1. Become a regular contributor
+2. Take on challenging tasks
+3. Collaborate with others
+4. Share your expertise
+5. Mentor new contributors
+
+
 ### Build Your Open Source Resume
 
 
