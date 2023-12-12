@@ -272,7 +272,6 @@ In conclusion, getting started with open source contributions and making a lasti
 - performance optimization
 - testing and quality assurance
 
-
-## Resources
+## 8. Additional Resources
 
 [Introduction to contributing](https://docs.opensauced.pizza/contributing/introduction-to-contributing/)
