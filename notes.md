@@ -7,10 +7,10 @@
 - [x] 3. Why Open Source?
 - [x] 4. Tools to be successful
 - [x] 5. How to contribute to open source
-- [ ] 6. The Secret Sauce
-- [ ] 7. Conclusion
-- [ ] 8. Additional Resources
-- [ ] 9. Glossary
+- [x] 6. The Secret Sauce
+- [x] 7. Conclusion
+- [x] 8. Additional Resources
+- [x] 9. Glossary
 
 ## 1. Intro to Open Source with OpenSauced
 
